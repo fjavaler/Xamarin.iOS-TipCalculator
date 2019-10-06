@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator-Xamarin.iOS", "TipCalculator-Xamarin.iOS\TipCalculator-Xamarin.iOS.csproj", "{BB2BB885-BB34-4584-BFD3-D674F35EA20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BB2BB885-BB34-4584-BFD3-D674F35EA20A}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
